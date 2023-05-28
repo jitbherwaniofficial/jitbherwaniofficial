@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Freelancer
 
-- 💬 Ask me about **Angular, Javascript, Nodejs, MongoDB, Flutter, Expressjs, HTML, CSS, Python, Django, Flask, AWS, Postgresql**
+- 💬 Ask me about **Angular, Javascript, Nodejs, MongoDB, Flutter, Expressjs, HTML, CSS, Python, Django, Flask, AWS, Postgresql, Dart**
 
 - 📫 How to reach me **jitbherwani92@gmail.com**
 
