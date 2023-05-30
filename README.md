@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/darkenergypi" target="blank"><img src="https://img.shields.io/twitter/follow/darkenergypi?logo=twitter&style=for-the-badge" alt="darkenergypi" /></a> </p>
 
-- 🔭 I’m currently working as a Freelancer
-
+- 🔭 I’m currently working as a MEAN Stack Developer in pwa lab llp, plus I'm doing freelancing as well.
 - 💬 Ask me about **Angular, Javascript, Nodejs, MongoDB, Flutter, Expressjs, HTML, CSS, Python, Django, Flask, AWS, Postgresql, Dart, Selenium**
 
 - 📫 How to reach me **jitbherwani92@gmail.com**
